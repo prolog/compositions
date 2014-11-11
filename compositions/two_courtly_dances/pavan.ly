@@ -6,6 +6,7 @@
 \header {
   title = \markup { "PAVAN" }
   composer = "Julian Day"
+  tagline = ""
 }
 
 melody = \relative c'' {
