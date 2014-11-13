@@ -9,12 +9,12 @@
   tagline = ""
 }
 
-melody = \relative c'' {
+flute_melody = \relative c'' {
   \clef treble
   \key a \minor
   \time 4/4
 
-  a4. g8 a8 d8 e4~ |
+  a4. b8 c8 d8 e4~ |
   e8 d8 c8 b8 a8 c8 b8 a8 |
   b4. b8 b8 c8 b8 a8 |
   b4 g2. |
@@ -53,7 +53,7 @@ melody = \relative c'' {
 
 \score {
   \new Staff \with {instrumentName = "Flute"}
-    \melody
+    \flute_melody
   \layout { }
   \midi { }
 }
