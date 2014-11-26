@@ -22,11 +22,11 @@ flute_melody = \relative c'' {
   a4 c4 b4 d4 |
   g,1 |
   b2 d2 |
-  a'4. a8 a8 gis8 a4 | 
+  a4. a8 a8 gis8 a4 | 
   a4 c4 b4 a4 |
   g4. g8 g8 a8 g8 fis8 |
   g1 |
-  c,4 a4. g8 a8 g8 |
+  c4 a4. g8 a8 g8 |
   a4 b4 c4 e4 |
   a,1~ |
   a1 |
