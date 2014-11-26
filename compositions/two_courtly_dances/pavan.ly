@@ -55,7 +55,6 @@ flute_melody = \relative c'' {
   \new Staff \with {instrumentName = "Flute"}
     \flute_melody
   \layout { }
-  \midi { }
 }
 
 \score {
